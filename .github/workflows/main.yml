@@ -1,6 +1,9 @@
-on: 
-  push:
-    branches : [PublishedCopy]
+on:
+  pull_request:
+    branches:
+      - PublishedCopy
+    types:
+      [closed]
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
