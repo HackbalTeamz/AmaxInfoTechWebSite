@@ -20,13 +20,13 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'illuminatiweb_maxdb' );
+define( 'DB_NAME', 'amaxinfotechwebsite' );
 
 /** Database username */
-define( 'DB_USER', 'illuminatiweb_maxuser' );
+define( 'DB_USER', 'amaxinfotechwebsite' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'MbH?;6ftkogO' );
+define( 'DB_PASSWORD', '1y9e^9D9x' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
